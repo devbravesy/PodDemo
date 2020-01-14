@@ -22,7 +22,7 @@ pod 'PodDemo'
 
 ## Author
 
-ShengYong, shengyong91@163.com
+ShengY
 
 ## License
 
